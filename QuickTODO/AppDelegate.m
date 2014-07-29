@@ -12,7 +12,6 @@
 #import "MainListNavigationController.h"
 #import "MainListViewController.h"
 
-//dmunoz test
 #import "TodoItem.h"
 @interface AppDelegate()
 @property (nonatomic, strong) MainListViewController *rootVC;
