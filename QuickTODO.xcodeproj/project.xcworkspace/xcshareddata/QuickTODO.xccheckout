@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>C39F8B5E-5DB5-46C5-BF40-D0D5FC62A0FD</string>
+	<string>7CA38F8D-C092-432B-BEE4-D05824B874F9</string>
 	<key>IDESourceControlProjectName</key>
 	<string>QuickTODO</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>93AAD7DE-9162-4B7B-B076-2579C6845879</key>
-		<string>https://github.com/danmunoz/quickTodo.git</string>
+		<key>2ABDF11A-702B-4237-AD78-3F46FDCC6173</key>
+		<string>ssh://git.toptal.com/mchikilian/project-daniel-munoz.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>QuickTODO.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>93AAD7DE-9162-4B7B-B076-2579C6845879</key>
+		<key>2ABDF11A-702B-4237-AD78-3F46FDCC6173</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/danmunoz/quickTodo.git</string>
+	<string>ssh://git.toptal.com/mchikilian/project-daniel-munoz.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>93AAD7DE-9162-4B7B-B076-2579C6845879</string>
+	<string>2ABDF11A-702B-4237-AD78-3F46FDCC6173</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>93AAD7DE-9162-4B7B-B076-2579C6845879</string>
+			<string>2ABDF11A-702B-4237-AD78-3F46FDCC6173</string>
 			<key>IDESourceControlWCCName</key>
-			<string>quickTodo</string>
+			<string>QuickTODO</string>
 		</dict>
 	</array>
 </dict>

@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6E080BA31987EC5D00B0C70F /* TestClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E080BA21987EC5D00B0C70F /* TestClass.m */; };
 		6E1627DB18D219B700C37823 /* gray_box.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E1627D918D219B700C37823 /* gray_box.png */; };
 		6E1627DC18D219B700C37823 /* gray_box@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E1627DA18D219B700C37823 /* gray_box@2x.png */; };
 		6E1627DF18D21AA500C37823 /* green_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E1627DD18D21AA500C37823 /* green_button.png */; };
@@ -114,8 +113,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6E080BA11987EC5D00B0C70F /* TestClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestClass.h; sourceTree = "<group>"; };
-		6E080BA21987EC5D00B0C70F /* TestClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestClass.m; sourceTree = "<group>"; };
 		6E1627D918D219B700C37823 /* gray_box.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gray_box.png; sourceTree = "<group>"; };
 		6E1627DA18D219B700C37823 /* gray_box@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gray_box@2x.png"; sourceTree = "<group>"; };
 		6E1627DD18D21AA500C37823 /* green_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = green_button.png; sourceTree = "<group>"; };
@@ -443,8 +440,6 @@
 				6EE9519518D12E950026FBB5 /* AMSlideMenuRightTableViewController.m */,
 				6EE9519618D12E950026FBB5 /* UIViewController+AMSlideMenu.h */,
 				6EE9519718D12E950026FBB5 /* UIViewController+AMSlideMenu.m */,
-				6E080BA11987EC5D00B0C70F /* TestClass.h */,
-				6E080BA21987EC5D00B0C70F /* TestClass.m */,
 			);
 			path = AMSlideMenu;
 			sourceTree = "<group>";
@@ -664,7 +659,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6E080BA31987EC5D00B0C70F /* TestClass.m in Sources */,
 				6EE9519818D12E950026FBB5 /* AMSlideMenuContentSegue.m in Sources */,
 				6EE3750D18D00115005C90E5 /* TODOModel.xcdatamodeld in Sources */,
 				6EE951C618D16DE30026FBB5 /* TSQCalendarView.m in Sources */,
