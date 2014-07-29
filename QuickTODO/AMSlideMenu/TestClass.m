@@ -10,4 +10,5 @@
 
 @implementation TestClass
 //This is a class to test revert merge
+//test line 2
 @end
